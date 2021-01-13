@@ -1,2 +1,3 @@
-1. Here's a list
-1. Here's a second option
+- Here's a list
+- Here's a second option
+- Item 3
